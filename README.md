@@ -1,2 +1,2 @@
 # test
-test repo first
+test repo first for basic commands
